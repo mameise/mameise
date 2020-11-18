@@ -5,13 +5,11 @@
 
 I'm a tech enthusiast who loves to learn about new things. Connect with me!
 
-
 ## ⚡ Domains:
 - Electronics
 - 3D Printing
 - Blockchain
 - Coding
-
 
 <p align="center">
 <i>Inspired by my work? Please consider <a href="https://paypal.me/mameise/5">donating</a>  💸 to help me continue!</i>
