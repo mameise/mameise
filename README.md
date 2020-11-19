@@ -16,7 +16,7 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me!
 </p>
 
 <p align="center">
-<a href="https://www.paypal.me/mameise"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
+<a href="https://www.paypal.me/online-watch"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
 </a>
 <a href='https://ko-fi.com/mameise' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for mameise' />
 </a>
